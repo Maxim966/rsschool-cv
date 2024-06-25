@@ -5,6 +5,7 @@
 * **Telegram**: @MaximS6
 * **Email**: ya.morfius2014@gmail.com
 * **GitHub**: [Maxim966](https://github.com/Maxim966)
+* **Discord**: Maksim Sukhov(@Maxim966)
 
 ## **About me**
 
