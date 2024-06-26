@@ -26,7 +26,7 @@ function multiply(a, b){
 }
 ```
 
-## **Code example**
+## **Work experience**
 
 * [сurriculum vitae](https://github.com/Maxim966/rsschool-cv)
 
