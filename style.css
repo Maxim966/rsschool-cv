@@ -181,3 +181,12 @@ img {
 .experience-link {
   transition: color .3s ease;
 }
+
+/* languages */
+.languages-item:not(:last-child) {
+  margin-bottom: 15px;
+}
+
+.languages-weight {
+  font-weight: bold;
+}
