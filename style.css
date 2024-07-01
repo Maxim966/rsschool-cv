@@ -42,6 +42,38 @@ img {
   max-width: 1310px; 
 }
 
+.section-offset {
+  margin-bottom: 40px;
+}
+
+.section-title {
+  margin: 0;
+  position: relative;
+  margin-bottom: 40px;
+  font-size: 25px;
+}
+
+.section-title:before {
+  content: "";
+  position: absolute;
+  background: url(./img/substract.png);
+  width: 30px;
+  height: 4px;
+  bottom: -2px;
+  left: 0;
+  background-color: #000000;
+}
+
+.subtitle-reset {
+  margin: 0;
+  font-size: 20px;
+}
+
+.descr {
+  margin: 0;
+  line-height: 150%;
+}
+
 .flex {
   display: flex;
 }
