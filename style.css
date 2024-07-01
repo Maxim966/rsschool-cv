@@ -130,3 +130,40 @@ img {
 .education-subtitle {
   margin-bottom: 8px;
 }
+
+/* skills */
+.skills-item:not(:last-child) {
+  margin-bottom: 15px;
+}
+
+.skills-bar {
+  position: relative;
+  border: 1px solid #000000;
+  width: 300px;
+  height: 10px;
+  background-color: #ffffff;
+}
+
+.skills-name {
+  margin: 0;
+  margin-bottom: 5px;
+  font-size: 17px;
+}
+
+.progress {
+  position: absolute;
+  height: 9px;
+  background-color: black;
+}
+
+.progress-html {
+  width: 180px;
+}
+
+.progress-css {
+  width: 150px;
+}
+
+.progress-js {
+  width: 40px;
+}
