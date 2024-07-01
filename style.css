@@ -98,16 +98,19 @@ img {
   transition: color .3s ease;
 }
 
-.nav-link:hover {
+.nav-link:hover,
+.experience-link:hover {
   color: rgb(236, 162, 24);
 }
 
-.nav-link:focus {
+.nav-link:focus,
+.experience-link:focus  {
   outline: none;
   color: rgb(236, 162, 24);
 }
 
-.nav-link:active {
+.nav-link:active,
+.experience-link:active  {
   color: rgb(187, 130, 25);
 }
 
