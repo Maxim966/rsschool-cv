@@ -167,3 +167,12 @@ img {
 .progress-js {
   width: 40px;
 }
+
+/* example */
+.example-wrapper {
+  background-color: #cfcfcf;
+}
+
+.example-wrapper pre {
+  margin: 0;
+}
