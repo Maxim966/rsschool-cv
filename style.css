@@ -176,3 +176,8 @@ img {
 .example-wrapper pre {
   margin: 0;
 }
+
+/* experience */
+.experience-link {
+  transition: color .3s ease;
+}
