@@ -239,3 +239,43 @@ img {
 .main-container {
   min-height: calc(100vh - 150px);
 } 
+
+/* contacts */
+
+.contacts-color {
+  color: #ffffff;
+}
+
+.contacts-content {
+  padding: 0 70px;
+}
+
+.contacts-item:not(:last-child) {
+  margin-bottom: 30px;
+}
+
+.contacts-title::before {
+  background-color: #ffffff;
+}
+
+.contacts-subtitle {
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.contacts-link {
+  transition: color .3s ease;
+}
+
+.contacts-link:hover {
+  color: rgb(236, 162, 24);
+}
+
+.contacts-link:focus {
+  outline: none;
+  color: rgb(236, 162, 24);
+}
+
+.contacts-link:active {
+  color: rgb(187, 130, 25);
+}
